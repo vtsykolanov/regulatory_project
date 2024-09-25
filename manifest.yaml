@@ -1,0 +1,10 @@
+---
+applications:
+- name: testing_ri
+  random-route: true
+  path: ./
+  memory: 1024MB
+  disk-quota: 1024MB
+  buildpacks: 
+  - python_buildpack
+  command: python main.py

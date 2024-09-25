@@ -1,0 +1,13 @@
+Flask==3.0.*
+flask_reuploaded==1.4.0
+pandas==2.2.*
+requests==2.31.*
+ai-core-sdk==2.1.*
+python-dotenv==1.0.*
+hana-ml==2.19.*
+shapely==2.0.*
+generative-ai-hub-sdk==1.2.*
+pypdf==4.2.*
+langchain-text-splitters==0.0.*
+pdfminer.six==20231228
+beautifulsoup4==4.12.*
